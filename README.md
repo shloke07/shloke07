@@ -31,7 +31,6 @@ Here are a few projects I have worked on:
 
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/in/shlokem7)
-- [Twitter](https://twitter.com/shloke07)
 - [Website](https://threed-portfolio-8boe.onrender.com)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect!
